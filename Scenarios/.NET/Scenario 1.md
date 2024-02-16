@@ -43,7 +43,7 @@ end
  - The applications are hosted in the Cloud environment
  - Runs in a serverless/containerised environment
  
- ## Internal guiding questions
+ ## Internal guiding questionsasfsadf
  - Compatability
  - Dependencies
  - Infrastructure support
