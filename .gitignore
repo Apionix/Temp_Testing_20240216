@@ -1,0 +1,9 @@
+Code/*/src/obj/*
+Code/*/src/bin/*
+Code/*/.vs/*
+.vs/*
+*/.vs/*
+*.bin
+*.suo
+*.v2
+*.vsidx
